@@ -1,7 +1,7 @@
 #!/bin/sh
 # server.py是进程名称，修改为自己的即可
 # 用crontab -e将此守护进程添加到定时任务，可实现每小时/分钟重启server.py
-# 55 7 * * * /home/username/auto/server_daemon.sh >> /home/username/auto/server_daemon.log 
+# 55 7 * * * /home/username/auto/server_daemon.sh
 # 如果crontab -e的运行环境缺失部分环境变量
 
 v_num=`ps -ef | grep "server.py" | grep -v "grep" | grep -v "server_daemon.sh"|wc -l`

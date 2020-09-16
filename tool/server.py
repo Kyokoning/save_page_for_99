@@ -109,7 +109,8 @@ def deal_data(client, addr):
 
 def record(s, mode):
     # 保存的文件格式是tmp/20200916/post_id.txt
-    today = time.strftime('%Y%m%d')
+    today = time.time()-3600*12
+    today = time.strftime('%Y%m%d', today)
     output_dir = os.path.join('temp', today)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
