@@ -1,0 +1,26 @@
+2020-09-16 20:35:10,277 KEYWORD: True
+KEYWORD_LIST: ['miu', 'sc', '赫海']
+LOG_DIR: log
+OUTPUT_DIR: output
+POST: True
+POST_LIST: ['761378', '761689']
+2020-09-16 20:37:59,695 KEYWORD: True
+KEYWORD_LIST: ['miu', 'sc', '赫海']
+LOG_DIR: log
+OUTPUT_DIR: output
+POST: True
+POST_LIST: ['761378', '761689']
+2020-09-16 20:38:01,426 => error in post id 761378.
+2020-09-16 20:38:04,367 => error in post id 761689.
+2020-09-16 20:40:03,744 KEYWORD: True
+KEYWORD_LIST: ['miu', 'sc', '赫海']
+LOG_DIR: log
+OUTPUT_DIR: output
+POST: True
+POST_LIST: ['761378', '761689']
+2020-09-16 20:41:06,172 KEYWORD: True
+KEYWORD_LIST: ['miu', 'sc', '赫海']
+LOG_DIR: log
+OUTPUT_DIR: output
+POST: True
+POST_LIST: ['761378', '761689']
