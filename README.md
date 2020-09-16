@@ -40,7 +40,7 @@
 
 `log/`: log文件存放
 
-`output/`: 存储帖子的位置，存储格式是readme（暂时），path格式是`output/日期/帖标题`
+`output/`: 存储帖子的位置，存储格式是markdown（暂时），path格式是`output/日期/帖标题`
 
 `temp/`: 移动端当日发送到服务器端的请求会被存储在temp文件夹，等待日清前读取
 
