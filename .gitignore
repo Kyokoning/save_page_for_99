@@ -38,6 +38,7 @@ __pycache__/
 test.log
 output/*
 temp/*
+log/*
 auto_mail.py
 .idea
 tool/__pycache__/

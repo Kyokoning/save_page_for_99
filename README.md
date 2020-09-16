@@ -21,7 +21,6 @@
 ├── output
 ├── log
 ├── temp
-├── server_daemon.sh
 ├── lib
 │   ├── config.py
 │   ├── fetch_post.py
