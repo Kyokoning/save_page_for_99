@@ -1,0 +1,6 @@
+OUTPUT_DIR: output
+LOG_DIR: log
+KEYWORD: false
+KEYWORD_LIST: []
+POST: false
+POST_LIST: []
