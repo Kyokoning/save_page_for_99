@@ -36,7 +36,7 @@ def pre_process(url):
 
 def fetch_post_via_id(id_list, output_dir):
     today = time.time()-3600*8
-    today = time.strftime('%Y%m%d', today)
+    today = time.strftime('%Y%m%d', time.localtime(today))
     output_dir = os.path.join(output_dir, today)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
