@@ -12,6 +12,8 @@ def create_logger(cfg):
 
     if not os.path.exists(cfg.OUTPUT_DIR):
         os.makedirs(cfg.OUTPUT_DIR)
+    if not os.path.exists(cfg.LOG_DIR):
+        os.makedirs(cfg.LOG_DIR)
     log_file_path = os.path.join(cfg.LOG_DIR, log_file_name)
     head = '%(asctime)-15s %(message)s'
     logging.basicConfig(filename = log_file_path,
