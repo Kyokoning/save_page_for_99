@@ -62,7 +62,10 @@ def fetch_post_via_id(id_list, output_dir):
                         for state in page:
                             floor += 1
                             res += '-'*15+'\n'
-                            res += state['content']+'\n'
+                            content = state['content'].strip().split('<br/>')
+                            for c in content[:-1]:
+                                res += '    '+c+'\n'
+                            res += content[-1]+'\n'
                             res += '№'+str(floor)+' ☆☆☆ ' + state['username'] + '于' + state['updated_at'] + '留言☆☆☆'+'\n'
                     res += '-'*15+'\n'
                     f.write(res)
