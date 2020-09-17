@@ -20,7 +20,7 @@ def parse_args():
     args = parser.parse_args()
     return args
 
-def gc(dir_list):
+def gc():
     # 删除距离如今时间有3天的log文件和temp文件
     current_time = time.time()
     tmp_dir = 'temp/'
