@@ -28,16 +28,18 @@ def gc ():
     current_time = time.time()
     tmp_dir = 'temp/'
     log_dir = cfg.LOG_DIR
-    for day_dir in os.listdir(tmp_dir):
-        dir_path = os.path.join(tmp_dir, day_dir)
-        create_time = os.path.getctime(dir_path)
-        if (current_time - create_time) // (24 * 3600) >= 3:
-            shutil.rmtree(dir_path)
-    for log_file in os.listdir(log_dir):
-        log_path = os.path.join(log_dir, log_file)
-        create_time = os.path.getctime(log_path)
-        if (current_time - create_time) // (24 * 3600) >= 3:
-            os.remove(log_path)
+    if os.path.exists(tmp_dir):
+        for day_dir in os.listdir(tmp_dir):
+            dir_path = os.path.join(tmp_dir, day_dir)
+            create_time = os.path.getctime(dir_path)
+            if (current_time - create_time) // (24 * 3600) >= 3:
+                shutil.rmtree(dir_path)
+    if os.path.exists(log_dir):
+        for log_file in os.listdir(log_dir):
+            log_path = os.path.join(log_dir, log_file)
+            create_time = os.path.getctime(log_path)
+            if (current_time - create_time) // (24 * 3600) >= 3:
+                os.remove(log_path)
 
 
 if __name__ == '__main__':
