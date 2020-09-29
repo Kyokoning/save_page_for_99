@@ -107,9 +107,11 @@ POST_LIST|[]|如果选择了楼号模式，那么脚本自动存储这个list里
 
 当你的代码在远程服务器设置好之后，可以使用git的小脚本+守护进程来自动push到私人gitlab等。
 
-这一方法在`auto_git.sh`中由绿绿实现。
+这一方法在`auto_git.sh`中由绿绿实现。(@donlv1997 excuse me?wsm要call我这个名字???)
 
 ### 自动GIT PUSH的办法
+
+请您不要作死使用下面的表达式，把cron表达式改为每天（而不是每分钟）。从而避免被GIT仓库管理员打死。
 
 ```shell
 0-59 * * * * /bin/sh /home/usrname/code/save_page_for_99/auto_git.sh >> /home/usrname/code/auto_git.log 2>&1
