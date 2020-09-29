@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 def sock_service():
     try:
         server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        # 创建类型为socket.SOCK_STREAM的socket对象，默认使用TCP协议
+        # socket.AF_INET 表示因特网 IPv4 地址族，SOCK_STREAM 表示使用 TCP 的 socket 类型
         server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         # setsockopt(level,optname,value)
         # socket.SOL_SOCKET是正在使用的socket选项，socket.SOREUSEADDR令socket在关闭后，本地端用于该socket的端口号立刻就可以被重用。
@@ -82,11 +82,10 @@ def deal_data(client, addr):
 
         # get type of the file
         buf = client.recv(4)
-        # recv()的参数是缓冲区数据大小限制最大值参数，并不代表只返回这么多内容。
         word = struct.unpack("!s", buf)[0]
         # struct.unpack(format, buffer)
         # 根据字符串format从缓冲区buffer解包，结果为一个元组
-        # i是大端模式（网络），s是string，i是int
+        # !是大端模式（网络），s是string，i是int
         logger.info("===> Receive done, word:", word)
 
         record(word, mode)

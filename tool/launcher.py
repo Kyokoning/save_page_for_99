@@ -9,8 +9,10 @@ from lib.config import update_config
 import argparse, os, time, shutil
 from lib.logger import create_logger
 from lib.fetch_post import fetch_post_via_id
+from lib.fetch_post import fetch_post_via_tag_list
 
-def parse_args():
+
+def parse_args ():
     parser = argparse.ArgumentParser(description = 'Train setting')
 
     parser.add_argument('--cfg',
@@ -20,7 +22,8 @@ def parse_args():
     args = parser.parse_args()
     return args
 
-def gc():
+
+def gc ():
     # 删除距离如今时间有3天的log文件和temp文件
     current_time = time.time()
     tmp_dir = 'temp/'
@@ -36,6 +39,7 @@ def gc():
         if (current_time - create_time) // (24 * 3600) >= 3:
             os.remove(log_path)
 
+
 if __name__ == '__main__':
     args = parse_args()
     update_config(cfg, args)
@@ -43,8 +47,13 @@ if __name__ == '__main__':
     logger.info(cfg)
 
     gc()
-
+    today = time.time() - 3600 * 8
+    today = time.strftime('%Y%m%d', time.localtime(today))
+    output_dir = os.path.join(cfg.OUTPUT_DIR, today)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     if cfg.POST:
-        fetch_post_via_id(cfg.POST_LIST, cfg.OUTPUT_DIR)
-
+        fetch_post_via_id(cfg.POST_LIST, output_dir)
+    if cfg.KEYWORD:
+        fetch_post_via_tag_list(cfg.KEYWORD_LIST, output_dir)
 

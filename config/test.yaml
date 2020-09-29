@@ -1,6 +1,6 @@
 OUTPUT_DIR: output
 LOG_DIR: log
-KEYWORD: false
-KEYWORD_LIST: []
+KEYWORD: true
+KEYWORD_LIST: ["ggl"]
 POST: false
 POST_LIST: []
