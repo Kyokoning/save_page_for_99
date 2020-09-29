@@ -77,7 +77,7 @@ def fetch_post_via_tag_list(tag_list, output_dir):
 
 def fetch_post_via_tag (tag, output_dir):
     post_id_list = get_search_post_id(tag)
-    logger.info("=> tag: "+tag+"; post_id_list: "+post_id_list+";")
+    logger.info("=> tag: {}; post_id_list: {};".format(tag, post_id_list))
     fetch_post_via_id(post_id_list, output_dir)
 
 def get_search_post_id (tag):
