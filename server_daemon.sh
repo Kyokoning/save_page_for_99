@@ -7,4 +7,5 @@
 # 应用启动的根目录
 cd /home/xnchen/code/save_page_for_99
 # 应用启动的命令,-u是考虑到python的缓存输出问题
+TZ='Asia/Shanghai'; export TZ;
 nohup python -u tool/launcher.py --cfg config/test.yaml >> server.log 2>&1 &
