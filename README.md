@@ -20,7 +20,6 @@
 ├── config
 ├── output
 ├── log
-├── temp
 ├── lib
 │   ├── config.py
 │   ├── fetch_post.py
@@ -33,16 +32,13 @@
 
 `launcher.py`: 服务器存贴脚本入口
 
-`server.py`: 服务器接收网络消息的脚本
+`server.py`: 服务器接收网络消息的脚本（然而现在并没有用到）
 
 `server_daemon.sh` : 守护进程shell文件
 
 `log/`: log文件存放
 
 `output/`: 存储帖子的位置，存储格式是markdown（暂时），path格式是`output/日期/帖标题`
-
-`temp/`: 移动端当日发送到服务器端的请求会被存储在temp文件夹，等待日清前读取
-
 
 ### 注意事项
 
