@@ -1,12 +1,7 @@
-echo `date +"%Y-%m-%d %H:%M:%S"`
-echo "####### 进入项目路径 #######"
-/home/xnchen/code/save_page_for_99
-echo "####### 开始自动备份 #######" 
-git add .
-
-sleep 1s
-git commit -m "auto_update"
-sleep 1s
-git push -u origin master
-
-echo "####### 自动备份执行完毕 #######"
+#bin/bash
+cd /home/xnchen/code/save_page_for_99
+GIT=`which git`
+${GIT} add --all
+time=`date`
+${GIT} commit -m "提交的时间是: $time"
+HOME=/home/xnchen ${GIT} push origin master
