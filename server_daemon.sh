@@ -5,8 +5,12 @@
 # 如果crontab -e的运行环境缺失部分环境变量
 
 # 应用启动的根目录
+
+CODE_PATH='/home/xnchen/code/save_page_for_99'
+PYTHON_PATH='/home/xnchen/anaconda3/bin'
+
 TZ='Asia/Shanghai'; export TZ;
-cd /home/xnchen/code/save_page_for_99/
-nohup /home/xnchen/anaconda3/bin/python -u tool/launcher.py --cfg config/test.yaml >> launcher.log 2>&1 &
+cd ${CODE_PATH}/save_page_for_99/
+nohup ${PYTHON_PATH}/python -u tool/launcher.py --cfg config/test.yaml >> launcher.log 2>&1 &
 echo `date +"%Y-%m-%d %H:%M:%S"`
 echo "success"
