@@ -44,3 +44,5 @@ auto_mail.py
 tool/__pycache__/
 tool/.DS_Store
 lib/__pycache__
+server_daemon.log
+launcher.log

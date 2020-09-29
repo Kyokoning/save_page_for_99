@@ -6,4 +6,7 @@
 
 # 应用启动的根目录
 TZ='Asia/Shanghai'; export TZ;
-nohup python -u /home/xnchen/code/save_page_for_99/tool/launcher.py --cfg /home/xnchen/code/save_page_for_99/config/test.yaml >> server.log 2>&1 &
+cd /home/xnchen/code/save_page_for_99/
+nohup /home/xnchen/anaconda3/bin/python -u tool/launcher.py --cfg config/test.yaml >> launcher.log 2>&1 &
+echo `date +"%Y-%m-%d %H:%M:%S"`
+echo "success"
