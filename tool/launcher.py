@@ -47,6 +47,7 @@ if __name__ == '__main__':
     update_config(cfg, args)
     logger, _ = create_logger(cfg)
     logger.info(cfg)
+    logger.info("=> process start time: {}".format(time.strftime('%Y%m%d-%H%M%S')))
 
     gc()
     today = time.time() - 3600 * 8
