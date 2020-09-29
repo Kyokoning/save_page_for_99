@@ -5,7 +5,7 @@ nohup git pull >> git.log 2>&1 &
 nohup git add . >> git.log 2>&1 &
 
 sleep 1s
-nohup git commit -m "`date +"%Y-%m-%d %H:%M:%S"`" >> git.log 2>&1 &
+nohup git commit -m "auto_update" >> git.log 2>&1 &
 sleep 1s
 nohup git push -u origin master >> git.log 2>&1 &
 

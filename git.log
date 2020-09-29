@@ -10,3 +10,28 @@ Everything up-to-date
 Branch master set up to track remote branch master from origin.
 nohup: ignoring input
 nohup: ignoring input
+nohup: ignoring input
+[master f8fc1ba] 2020-09-29 09:33:05
+ 2 files changed, 25 insertions(+)
+ create mode 100644 auto_git.sh
+ create mode 100644 git.log
+nohup: ignoring input
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 9b1560b573efb807631ce4135d4498491faf6eaf.
+error: Your local changes to the following files would be overwritten by merge:
+	auto_git.sh
+	git.log
+Please, commit your changes or stash them before you can merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 9b1560b573efb807631ce4135d4498491faf6eaf
+output, run
+$ git reset --hard
+to recover.
+To https://github.com/Kyokoning/save_page_for_99.git
+   9b1560b..f8fc1ba  master -> master
+Branch master set up to track remote branch master from origin.
+nohup: ignoring input
+nohup: ignoring input
