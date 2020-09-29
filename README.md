@@ -112,5 +112,5 @@ POST_LIST|[]|如果选择了楼号模式，那么脚本自动存储这个list里
 ### 自动GIT PUSH的办法
 
 ```shell
-
+0-59 * * * * /bin/sh /home/usrname/code/save_page_for_99/auto_git.sh >> /home/usrname/code/auto_git.log 2>&1
 ```
