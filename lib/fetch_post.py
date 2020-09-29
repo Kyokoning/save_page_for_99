@@ -47,7 +47,7 @@ def fetch_post_via_id (id_list, output_dir):
             else:
                 topic, page_list = post
 
-                output_file = os.path.join(output_dir, topic['title'] + '.md')
+                output_file = os.path.join(output_dir, topic['title'][:50] + '.md')
                 res = ''
                 with open(output_file, 'w', encoding = 'utf-8') as f:
                     floor = 0
@@ -69,7 +69,7 @@ def fetch_post_via_id (id_list, output_dir):
                     f.write(res)
 
         except Exception as e:
-            logger.info('=> error in post id {}.'.format(id))
+            logger.info('=> error {} in post id {}.'.format(e, id))
 
 def fetch_post_via_tag_list(tag_list, output_dir):
     for tag in tag_list:
