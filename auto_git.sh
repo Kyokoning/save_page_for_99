@@ -1,3 +1,4 @@
+echo `date +"%Y-%m-%d %H:%M:%S"`
 echo "####### 进入项目路径 #######"
 /home/xnchen/code/save_page_for_99
 echo "####### 开始自动备份 #######" 
