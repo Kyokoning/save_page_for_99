@@ -5,7 +5,5 @@
 # 如果crontab -e的运行环境缺失部分环境变量
 
 # 应用启动的根目录
-cd /home/xnchen/code/save_page_for_99
-# 应用启动的命令,-u是考虑到python的缓存输出问题
 TZ='Asia/Shanghai'; export TZ;
-nohup python -u tool/launcher.py --cfg config/test.yaml >> server.log 2>&1 &
+nohup python -u /home/xnchen/code/save_page_for_99/tool/launcher.py --cfg /home/xnchen/code/save_page_for_99/config/test.yaml >> server.log 2>&1 &
