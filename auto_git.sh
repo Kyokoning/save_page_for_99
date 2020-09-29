@@ -2,7 +2,6 @@ echo `date +"%Y-%m-%d %H:%M:%S"`
 echo "####### 进入项目路径 #######"
 /home/xnchen/code/save_page_for_99
 echo "####### 开始自动备份 #######" 
-nohup git pull >> ../git.log 2>&1 &
 nohup git add . >> ../git.log 2>&1 &
 
 sleep 1s
