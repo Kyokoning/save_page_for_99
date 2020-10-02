@@ -4,6 +4,6 @@ GIT=`which git`
 ${GIT} add --all
 ${GIT} pull --rebase
 time=`date`
-echo time
+echo $time
 ${GIT} commit -m "提交的时间是: $time"
 HOME=/home/xnchen ${GIT} push origin server_backup
