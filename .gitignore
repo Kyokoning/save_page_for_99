@@ -36,7 +36,6 @@ __pycache__/
 *.so
 ## local file
 test.log
-output/*
 temp/*
 log/*
 auto_mail.py
