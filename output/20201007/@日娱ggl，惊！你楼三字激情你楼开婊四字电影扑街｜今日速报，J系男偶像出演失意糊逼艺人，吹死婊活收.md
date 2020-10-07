@@ -5734,3 +5734,241 @@ silly太好听了<br>№730 ☆☆☆= =于2020-10-07 14:41:05留言☆☆☆<br
 №735 ☆☆☆ = =于2020-10-07 14:53:58留言☆☆☆
 ---------------
 
+把穷鼠漫画看完了，今之濑好病啊
+
+№736 ☆☆☆ = =于2020-10-07 15:03:58留言☆☆☆
+---------------
+
+忙忙明年要上好多映画 我看到的都宣了三个吧……
+
+№737 ☆☆☆ = =于2020-10-07 15:08:06留言☆☆☆
+---------------
+
+    忙忙明年要上好多映画 我看到的都宣了三个吧……
+    №737 ☆☆☆ = = 于2020-10-07 15:08:06留言☆☆☆
+你忙忙还是你忙忙
+
+№738 ☆☆☆ = =于2020-10-07 15:12:36留言☆☆☆
+---------------
+
+搞皇族确实爽 我再也不用捡垃圾（不是勾丝 请勿误伤）
+
+№739 ☆☆☆ = =于2020-10-07 15:17:55留言☆☆☆
+---------------
+
+<img class="emotion" src="http://imglf4.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJaC81ZFBZSHRJa0J4UEZlMnllNGdIQk1qRkZxU2YzcTd3PT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJaC81ZFBZSHRJa0J4UEZlMnllNGdIQk1qRkZxU2YzcTd3PT0.jpeg">bdjw，你日圈好多周边都有毛巾，那个干嘛的
+
+№740 ☆☆☆ = =于2020-10-07 15:19:01留言☆☆☆
+---------------
+
+    新冠疫情前后日本艺人cm片酬榜
+    №700 ☆☆☆ = = 于 2020-10-07 13:24:30留言☆☆☆
+呜呜呜 我推跟他老婆赚到钱就好<img class="emotion" src="http://imglf3.nosdn.127.net/img/cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png" alt="cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png">
+
+№741 ☆☆☆ = =于2020-10-07 15:19:12留言☆☆☆
+---------------
+
+    看综艺看到熊吉的家，你们民工应该还是蛮有钱的
+    №733 ☆☆☆ = = 于2020-10-07 14:49:43留言☆☆☆
+    民工肯定是有钱的，而且很多民工时尚品味蛮不错
+    №734 ☆☆☆ = = 于 2020-10-07 14:52:40留言☆☆☆
+我好喜欢他家的装修<img class="emotion" src="http://imglf4.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJaC81ZFBZSHRJa0J4UEZlMnllNGdIQk1qRkZxU2YzcTd3PT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJaC81ZFBZSHRJa0J4UEZlMnllNGdIQk1qRkZxU2YzcTd3PT0.jpeg">但是看起来真的好贵
+
+№742 ☆☆☆ = =于2020-10-07 15:19:32留言☆☆☆
+---------------
+
+BV1tK411N7dx<br>https://b23.tv/qr314S<br>打打福山叔中村的倒酒挑战（啤酒广告）
+
+№743 ☆☆☆ = =于2020-10-07 15:19:53留言☆☆☆
+---------------
+
+    bdjw，你日圈好多周边都有毛巾，那个干嘛的
+    №740 ☆☆☆ = = 于 2020-10-07 15:19:01留言☆☆☆
+买来放在柜子里再也不看的(不是
+
+№744 ☆☆☆ = =于2020-10-07 15:19:54留言☆☆☆
+---------------
+
+    bdjw，你日圈好多周边都有毛巾，那个干嘛的
+    №740 ☆☆☆ = = 于 2020-10-07 15:19:01留言☆☆☆
+挥舞 擦汗用的
+
+№745 ☆☆☆ = =于2020-10-07 15:22:12留言☆☆☆
+---------------
+
+    新冠疫情前后日本艺人cm片酬榜
+    №700 ☆☆☆ = = 于 2020-10-07 13:24:30留言☆☆☆
+    呜呜呜 我推跟他老婆赚到钱就好
+    №741 ☆☆☆ = = 于 2020-10-07 15:19:12留言☆☆☆
+你俩什么时候接个夫妻代啊呜呜呜呜呜呜到时候来你楼发喜糖<img class="emotion" src="http://imglf3.nosdn.127.net/img/cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png" alt="cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png">
+
+№746 ☆☆☆ = =于2020-10-07 15:22:58留言☆☆☆
+---------------
+
+我担好励志 真的好励志 求求了 让他拿个实绩吧<img class="emotion" src="http://imglf3.nosdn.127.net/img/cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png" alt="cE5sekhBUlB2N2JicVFDbXdkTURUaDRrUjhZNGJZK2taSEJpQVg1UEVFZGF2akJWKzBBUUNnPT0.png">
+
+№747 ☆☆☆ = =于2020-10-07 15:24:20留言☆☆☆
+---------------
+
+「工地能回春吗」,Roll点结果: 1 d 100 =「43」
+
+№748 ☆☆☆ Roll点系统于2020-10-07 15:30:29留言☆☆☆
+---------------
+
+<img class="emotion" src="http://imglf6.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg">感谢你楼老姨推荐的jpgoodbuy，代购速度好快啊
+
+№749 ☆☆☆ = =于2020-10-07 15:33:44留言☆☆☆
+---------------
+
+「我担今年内get实绩」,「1马上爆出宇宙2下辈子吧」的结果: 1 d 2 =「1」
+
+№750 ☆☆☆ Roll点系统于2020-10-07 15:34:05留言☆☆☆
+---------------
+
+    「我担今年内get实绩」,「1马上爆出宇宙2下辈子吧」的结果: 1 d 2 =「1」
+    №750 ☆☆☆ Roll点系统 于 2020-10-07 15:34:05留言☆☆☆
+谢谢岛神 请让我担成为全日本最红的男人<img class="emotion" src="http://imglf3.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJZ05wWm43d3k1dS9mdmFKMXBCZ0lSekpMaDBaOTlDcUdnPT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJZ05wWm43d3k1dS9mdmFKMXBCZ0lSekpMaDBaOTlDcUdnPT0.jpeg">
+
+№751 ☆☆☆ = =于2020-10-07 15:34:45留言☆☆☆
+---------------
+
+「工地明年能核爆吗」,「roll」的结果: 1 d 100 =「73」
+
+№752 ☆☆☆ Roll点系统于2020-10-07 15:34:50留言☆☆☆
+---------------
+
+    「工地明年能爆吗」,「roll」的结果: 1 d 100 =「73」
+    №752 ☆☆☆ Roll点系统 于 2020-10-07 15:34:50留言☆☆☆
+对不起多了一个字
+
+№753 ☆☆☆ = =于2020-10-07 15:35:04留言☆☆☆
+---------------
+
+「我推明年上电影/剧吗」,「Roll」的结果： 2 d 100 = 29 + 60 =「89」
+
+№754 ☆☆☆ Roll点系统于2020-10-07 15:38:12留言☆☆☆
+---------------
+
+「我cp夫妻代」,「1明天就宣2下辈子吧」的结果: 1 d 2 =「2」
+
+№755 ☆☆☆ Roll点系统于2020-10-07 15:38:23留言☆☆☆
+---------------
+
+    感谢你楼老姨推荐的jpgoodbuy，代购速度好快啊
+    №749 ☆☆☆ = = 于 2020-10-07 15:33:44留言☆☆☆
+<img class="emotion" src="http://imglf6.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg">但是我还是想问问，后续支付运费可以用账户里预付款的1000日元运费的退款支付吗？提现需要手续费唉
+
+№756 ☆☆☆ = =于2020-10-07 15:38:26留言☆☆☆
+---------------
+
+    「我cp夫妻代」,「1明天就宣2下辈子吧」的结果: 1 d 2 =「2」
+    №755 ☆☆☆ Roll点系统 于 2020-10-07 15:38:23留言☆☆☆
+嗯嗯不准的都是反的<img class="emotion" src="http://imglf6.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJczlhTzU3SlU3K001ZjAza2E4NGtkZ3dCYy9JQXRBTUVRPT0.jpeg">
+
+№757 ☆☆☆ = =于2020-10-07 15:38:43留言☆☆☆
+---------------
+
+「我cp二搭」,「1可以2下辈子吧」的结果: 1 d 2 =「1」
+
+№758 ☆☆☆ Roll点系统于2020-10-07 15:39:09留言☆☆☆
+---------------
+
+    「工地明年能核爆吗」,「roll」的结果: 1 d 100 =「73」
+    №752 ☆☆☆ Roll点系统 于 2020-10-07 15:34:50留言☆☆☆
+爱梦性明年倒闭
+
+№759 ☆☆☆ = =于2020-10-07 15:39:24留言☆☆☆
+---------------
+
+「我cp多少年后二搭」的结果: 1 d 30 =「14」
+
+№760 ☆☆☆ Roll点系统于2020-10-07 15:39:57留言☆☆☆
+---------------
+
+你们选项倒是留点余地啊<img class="emotion" src="http://imglf4.nosdn.127.net/img/cE5sekhBUlB2N2JicVFDbXdkTURUa2hRUGF0MXBGTzBsanlVZjhsL0FBRDNMTW9COFVFdzBnPT0.gif" alt="cE5sekhBUlB2N2JicVFDbXdkTURUa2hRUGF0MXBGTzBsanlVZjhsL0FBRDNMTW9COFVFdzBnPT0.gif">
+
+№761 ☆☆☆ = =于2020-10-07 15:40:10留言☆☆☆
+---------------
+
+    「工地明年能核爆吗」,「roll」的结果: 1 d 100 =「73」
+    №752 ☆☆☆ Roll点系统 于 2020-10-07 15:34:50留言☆☆☆
+    爱梦性明年倒闭
+    №759 ☆☆☆ = = 于 2020-10-07 15:39:24留言☆☆☆
+那看来是物理核爆
+
+№762 ☆☆☆ = =于2020-10-07 15:40:15留言☆☆☆
+---------------
+
+看了眼圈吧又因为浪配销量掐起来了
+
+№763 ☆☆☆ = =于2020-10-07 15:40:37留言☆☆☆
+---------------
+
+    看了眼圈吧又因为浪配销量掐起来了
+    №763 ☆☆☆ = = 于 2020-10-07 15:40:37留言☆☆☆
+<img class="emotion" src="http://imglf5.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJc09xYTcxM1ZiU2ZyUFBRZGNmcDNSQXNMV2FzbkVGSSt3PT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJc09xYTcxM1ZiU2ZyUFBRZGNmcDNSQXNMV2FzbkVGSSt3PT0.jpeg">
+
+№764 ☆☆☆ = =于2020-10-07 15:42:26留言☆☆☆
+---------------
+
+「我推和巨噶搭剧」,「roll」的结果: 1 d 100 =「49」
+
+№765 ☆☆☆ Roll点系统于2020-10-07 15:42:43留言☆☆☆
+---------------
+
+    看了眼圈吧又因为浪配销量掐起来了
+    №763 ☆☆☆ = = 于 2020-10-07 15:40:37留言☆☆☆
+    №764 ☆☆☆ = = 于 2020-10-07 15:42:26留言☆☆☆
+http://tieba.baidu.com/p/7000986219?share=9105&amp;fr=share&amp;see_lz=0&amp;share_from=post&amp;sfc=copy&amp;client_type=2&amp;client_version=11.9.8.0&amp;st=1602056600&amp;unique=A6D68E6151F9F9B994EA5A422CB569A4
+
+№766 ☆☆☆ = =于2020-10-07 15:43:22留言☆☆☆
+---------------
+
+「福田三国能爆吗」,「roll」的结果: 1 d 100 =「74」
+
+№767 ☆☆☆ Roll点系统于2020-10-07 15:43:24留言☆☆☆
+---------------
+
+「三国爆了能带带我推吗」,「roll」的结果: 1 d 100 =「20」
+
+№768 ☆☆☆ Roll点系统于2020-10-07 15:43:46留言☆☆☆
+---------------
+
+    「三国爆了能带带我推吗」,「roll」的结果: 1 d 100 =「20」
+    №768 ☆☆☆ Roll点系统 于 2020-10-07 15:43:46留言☆☆☆
+那没事了
+
+№769 ☆☆☆ = =于2020-10-07 15:43:53留言☆☆☆
+---------------
+
+    没次工地因为销量掐架我就想笑，菜鸡互啄何必呢<img class="emotion" src="http://imglf3.nosdn.127.net/img/cE5sekhBUlB2N1lxQ3Q3RWdqeUNJc1NlUUNOQjZBQzE4eWhETDAxS3NDaWxDMG5KOVphWnRBPT0.jpeg" alt="cE5sekhBUlB2N1lxQ3Q3RWdqeUNJc1NlUUNOQjZBQzE4eWhETDAxS3NDaWxDMG5KOVphWnRBPT0.jpeg">
+通通不到5w来回掐说出来都让大家见笑了
+
+№770 ☆☆☆ = =于2020-10-07 15:44:23留言☆☆☆
+---------------
+
+    每次工地因为销量掐架我就想笑，菜鸡互啄何必呢
+    通通不到5w来回掐说出来都让大家见笑了
+    №770 ☆☆☆ = = 于 2020-10-07 15:44:23留言☆☆☆
+gz
+
+№771 ☆☆☆ = =于2020-10-07 15:44:39留言☆☆☆
+---------------
+
+米津玄师新专182w了，好强……
+
+№772 ☆☆☆ = =于2020-10-07 15:47:35留言☆☆☆
+---------------
+
+「我西皮夫妻代的牌子」,「1酒类2碳酸饮料/果汁3巧克力曲奇等小零食4汽车5银行6保险7泡面8奢侈品9服装10调味料11房地产12护肤品13化妆品14快餐店15补习机构16电子产品」的结果: 5 d 16 =6+15+14+5+1=「41」
+
+№773 ☆☆☆ Roll点系统于2020-10-07 15:53:15留言☆☆☆
+---------------
+
+    「我西皮夫妻代的牌子」,「1酒类2碳酸饮料/果汁3巧克力曲奇等小零食4汽车5银行6保险7泡面8奢侈品9服装10调味料11房地产12护肤品13化妆品14快餐店15补习机构16电子产品」的结果: 5 d 16 =6+15+14+5+1=「41」
+    №773 ☆☆☆ Roll点系统 于 2020-10-07 15:53:15留言☆☆☆
+这怎么看？看最后一位？
+
+№774 ☆☆☆ = =于2020-10-07 15:53:43留言☆☆☆
+---------------
+
