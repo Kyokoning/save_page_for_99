@@ -6,8 +6,8 @@
 
 # 应用启动的根目录
 
-CODE_PATH='/home/xnchen/code'
-PYTHON_PATH='/home/xnchen/anaconda3/bin'
+CODE_PATH='.' # your code path
+PYTHON_PATH='/bin/python' # your python interpreter path
 
 TZ='Asia/Shanghai'; export TZ;
 cd ${CODE_PATH}/save_page_for_99/

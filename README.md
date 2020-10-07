@@ -16,7 +16,8 @@
 ```
 .
 ├── README.md
-├── server_daemon.sh
+├── server_daemon_outver.sh
+├── auto_git_outver.sh
 ├── config
 ├── output
 ├── log
@@ -34,7 +35,9 @@
 
 `server.py`: 服务器接收网络消息的脚本（然而现在并没有用到）
 
-`server_daemon.sh` : 守护进程shell文件
+`server_daemon.sh` : 需要使用守护进程的shell文件, 自动拉取指定post
+
+`auto_git_outver.sh` : 需要使用守护进程的shell文件，自动git push
 
 `log/`: log文件存放
 

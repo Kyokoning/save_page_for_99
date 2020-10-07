@@ -46,3 +46,5 @@ lib/__pycache__
 server_daemon.log
 launcher.log
 auto_git.log
+server_daemon.sh
+auto_git.sh

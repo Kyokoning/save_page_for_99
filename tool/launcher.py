@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/9/16
-# @Author : xnchen
+# @Author : mac
 # @File : launcher.py
 
 import _init_paths
